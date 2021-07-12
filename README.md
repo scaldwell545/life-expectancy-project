@@ -20,7 +20,7 @@ To understand the difference in life expectancy throughout the world, we decided
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=medicalDoctors.csv
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=pharmacists.csv
 
-![Alt text](graphs/averageLifeExpectancyPerCountry.png")
+![Alt text](https://github.com/scaldwell545/life-expectancy-project/graphs/averageLifeExpectancyPerCountry.png?raw=true)
 
 **Results**
 1. How does access to water effect life expectancy? Do hand washing habits correlate with life expectancy?
