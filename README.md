@@ -20,6 +20,8 @@ To understand the difference in life expectancy throughout the world, we decided
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=medicalDoctors.csv
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=pharmacists.csv
 
+![Alt text](graphs/Average Life Expecatncy by Continent.png?raw=true "Title")
+
 **Results**
 1. How does access to water effect life expectancy? Do hand washing habits correlate with life expectancy?
 
@@ -33,7 +35,7 @@ Again, similar to our previous two questions, life expectancy and access to basi
 
 Our results here were a little more surprising. Compared to our levels of correlation between infrastructure related variables and life expectancy, the number of medical doctors and pharmacists in the population have a lower correlation to life expectancy (r=0.62 and r=0.63, respectively). Though these r-values aren’t necessarily weak, they suggest that these variables have a lesser impact on a country’s life expectancy than those discussed earlier. This might be initially counter-intuitive as we associate these medical professionals with a higher quality of life and therefore a higher life expectancy. Why might this be the case?
 
-6. How do various infrastructural factors correlate with each other?
+4. How do various infrastructural factors correlate with each other?
 
 Although the presence of doctors or pharmacists in a population doesn’t correlate highly with life expectancy, there does exist a correlation between infrastructure related variables and the presence of these individuals in a country’s population (r = 0.68 for medical doctors per 10,000 vs the percentage of a population using at least basic sanitation services for example). 
 
