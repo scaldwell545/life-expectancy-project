@@ -22,7 +22,7 @@ To understand the difference in life expectancy throughout the world, we decided
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=medicalDoctors.csv
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=pharmacists.csv
 
-![Life Expectancy Heatmap](https://github.com/scaldwell545/life-expectancy-project/blob/main/graphs/Average%20Life%20Expectancy%20Per%20Year%20by%20Continent.png?raw=true)
+![Life Expectancy Over Time](https://github.com/scaldwell545/life-expectancy-project/blob/main/graphs/Average%20Life%20Expectancy%20Per%20Year%20by%20Continent.png?raw=true)
 
 **Results**
 1. How does access to water effect life expectancy? Do hand washing habits correlate with life expectancy?
@@ -43,3 +43,4 @@ Although the presence of doctors or pharmacists in a population doesn’t correl
 
 This might suggest that when a country has more money to invest in public infrastructure, like water and sanitation services, more specialized healthcare workers arise in the population as the country is able to support them. This could be, in part, due to increased investment in education in more developed countries which would therein increase opportunities for those who pursue education in healthcare. More research would have to be done to support this connection, however.
 
+![Correlation Matrix](https://github.com/scaldwell545/life-expectancy-project/blob/main/graphs/Correlation%20Matrix.png?raw=true)
