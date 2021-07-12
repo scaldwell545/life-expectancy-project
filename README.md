@@ -31,5 +31,11 @@ Again, similar to our previous two questions, life expectancy and access to basi
 
 3. Does the number of Pharmacist in a country’s population correlate with the overall life expectancy? Does the number of Medical Doctors in a country’s population correlate with the overall life expectancy?
 
-Our results here were a little more surprising. Compared to our levels of correlation between infrastructure related variables and life expectancy, the number of medical doctors and pharmacists in the population have a lower correlation to life expectancy (r=0.62 and r=0.63, respectively). Though these r-values aren’t necessarily weak, they suggest that these variables have a lesser impact on a country’s life expectancy than those discussed earlier. Why might this be the case?
+Our results here were a little more surprising. Compared to our levels of correlation between infrastructure related variables and life expectancy, the number of medical doctors and pharmacists in the population have a lower correlation to life expectancy (r=0.62 and r=0.63, respectively). Though these r-values aren’t necessarily weak, they suggest that these variables have a lesser impact on a country’s life expectancy than those discussed earlier. This might be initially counter-intuitive as we associate these medical professionals with a higher quality of life and therefore a higher life expectancy. Why might this be the case?
+
+6. How do various infrastructural factors correlate with each other?
+
+Although the presence of doctors or pharmacists in a population doesn’t correlate highly with life expectancy, there does exist a correlation between infrastructure related variables and the presence of these individuals in a country’s population (r = 0.68 for medical doctors per 10,000 vs the percentage of a population using at least basic sanitation services for example). 
+
+This might suggest that when a country has more money to invest in public infrastructure, like water and sanitation services, more specialized healthcare workers arise in the population as the country is able to support them. This could be, in part, due to increased investment in education in more developed countries which would therein increase opportunities for those who pursue education in healthcare. More research would have to be done to support this connection, however.
 
