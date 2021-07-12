@@ -3,6 +3,8 @@
 With the vast variety of resources, utilities, and factors around the world associated with our health as a human race, we were intrigued as to what kind of factors held correlations to longer life expectancies around the globe.
 To understand the difference in life expectancy throughout the world, we decided we would find its association to key factors such as the prevalence of physicians and pharmacists, basic handwashing, drinking water services, and basic sanitation services. Using data that spans several decades from the past century, we revealed some obvious and not so obvious correlations to the length of human life!
 
+![Life Expectancy Heatmap](https://github.com/scaldwell545/life-expectancy-project/blob/main/graphs/averageLifeExpectancyPerCountry.png?raw=true)
+
 **Research Questions to Answer**
 1. How does access to water effect life expectancy?
 2. Do hand washing habits correlate with life expectancy?
@@ -20,7 +22,7 @@ To understand the difference in life expectancy throughout the world, we decided
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=medicalDoctors.csv
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=pharmacists.csv
 
-![Life Expectancy Heatmap](https://github.com/scaldwell545/life-expectancy-project/blob/main/graphs/averageLifeExpectancyPerCountry.png?raw=true)
+![Life Expectancy Heatmap](https://github.com/scaldwell545/life-expectancy-project/blob/main/graphs/Average%20Life%20Expectancy%20Per%20Year%20by%20Continent.png?raw=true)
 
 **Results**
 1. How does access to water effect life expectancy? Do hand washing habits correlate with life expectancy?
