@@ -11,7 +11,7 @@ To understand the difference in life expectancy throughout the world, we decided
 5. Does the number of Medical Doctors in a country’s population correlate with the overall life expectancy?
 6. How do various infrastructural factors correlate with each other  (Medical Doctors per 10,000 vs Population using at least basic sanitization services (%),  etc.)
 
-**Datasets to be Used**
+**Datasets Used**
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete
 - https://www.kaggle.com/sansuthi/life-expectancy
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=basicDrinkingWaterServices.csv
@@ -19,3 +19,13 @@ To understand the difference in life expectancy throughout the world, we decided
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=atLeastBasicSanitizationServices.csv
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=medicalDoctors.csv
 - https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete?select=pharmacists.csv
+
+**Results**
+How does access to water effect life expectancy? Do hand washing habits correlate with life expectancy?
+
+Access to clean water, obviously, correlates highly with life expectancy (r = 0.81). Similarly, household access to hand-washing facilities correlates strongly to life expectancy (r = 0.82). These results should be obvious as cleanliness and clean, drinkable water are vital in living a long and healthy life. 
+
+How does access to basic sanitation services correlate with overall life expectancy?
+
+Again, similar to our previous two questions, life expectancy and access to basic sanitation services have a high correlation with each other (r = 0.84). This was to be expected as access to these services indicates that there is at least some more developed public infrastructure and therefore a better quality of life (in theory).
+
